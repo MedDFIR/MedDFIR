@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ariel, a <a href="https://www.linkedin.com/in/ariel-medina-leon/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ariel a <a href="https://www.linkedin.com/in/ariel-medina-leon/">Cybersecurity Professional</a>
 
 <h2> Videos that will help you grow:</h2>
 
