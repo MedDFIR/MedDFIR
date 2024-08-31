@@ -9,4 +9,4 @@
 
 <h2> Personal Projects</h2>
 
-- Build your own Telegram bot
+- [Build your own Telegram bot](https://github.com/MedDFIR/ZeroDaysTelgramBot/blob/main/README.md)
